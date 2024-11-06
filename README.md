@@ -5,7 +5,7 @@
 This Password Generator app is a web-based tool built using JavaScript that allows users to generate secure, random passwords based on selected criteria.
 
 
-[Click here to open](https://samiansari01.github.io/Password-Generator/)
+[Click here to open](https://alsami-ansari.github.io/Password-Generator/)
 
 ![Screenshot (58)](https://github.com/user-attachments/assets/06d4b04d-43d4-4c2e-9977-d92c348a90ca)
 
@@ -26,7 +26,7 @@ This Password Generator app is a web-based tool built using JavaScript that allo
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/samiansari01/password-generator.git
+    git clone https://github.com/alsami-ansari/password-generator.git
     ```
 
 2. Navigate to the project directory:
